@@ -1,0 +1,3 @@
+= Arquillian Playground
+
+This project is just a setup I use for trying stuff out ad-hoc in Arquillian tests.
